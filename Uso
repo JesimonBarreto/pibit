@@ -1,13 +1,26 @@
 O uso é feito de forma bem simples.
-  1- Instalação dos drives do kinect
-  2- Executar programa 
-  3- Calibrar
-  4- Usar 
+  1- Instalação do Java
+  2- Instalação dos drives do kinect
+  3- Executar programa 
+  4- Calibrar
+  5- Usar 
 
-  Instalado os drivers do kinect.( http://fivedots.coe.psu.ac.th/~ad/kinect/installation.html )
-  Clicar no executavel pibit.jar.
+      Pré-Uso
+      
+  Baixe Java 7. (http://www.oracle.com/technetwork/pt/java/javase/downloads/index.html)
+  Instale java 7.
+  Instalando os drivers do kinect.( http://fivedots.coe.psu.ac.th/~ad/kinect/installation.html)
+  Conecte 
+  Clique no executavel Aula de Geometria.jar, dentro do arquivo pibiti.rar.
+  (https://www.dropbox.com/s/gsgrtrlbo87yc63/pibiti.rar)
+  
+      Uso
+  Quando abrir a janela é necessario fazer a pose do print a seguir.
+  
+  
+  
   Quando executar usar os gestos para desenhar os gestos 
 e conseguir dar a aula
 
 Link Download do projeto
-https://www.dropbox.com/s/gsgrtrlbo87yc63/pibiti.rar
+
