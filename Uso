@@ -18,6 +18,37 @@ O uso é feito de forma bem simples.
       Uso
   Quando abrir a janela é necessario fazer a pose do print a seguir.
    (https://www.dropbox.com/s/yubqih8oap403yv/calibrar.png)
+   
+                      Desenhando
+  
+  Depois de calibrado, use um dos gestos de figura geometricas para desenhar na tela, como o exemplo a seguir.
+  
+    Ponto
+    
+    Circulo
+    
+    Os outros Gestos tem uma pose em comum.
+    
+    Depois de feita essa pose é só fazer o gesto que representa cada figura geometrica.
+                      
+                      Selecionar
+  
+  Esticar braço esquerdo para frente e posicionar em cima da imagem.
+  
+                      Rotacionar
+                      
+  Esticar braço direito para frente e a altura dele define o ângulo de rotação.
+  
+                      Modo dar aula (Travar)
+                      
+  Levantar as duas mãos para cima, irá travar os movimentos e o usuário poderar gesticular a vontade
+sem atrapalhar a aula.
+
+                     Limpar tela (Destravar)
+  
+  Colocar as duas mãos para trás, isso apagará todas as imagens na tela e irá liberar os movimentos para desenho.
+  
+  
   
   Agora o software está preparado para exibir as imagens de acordo com os gestos feitos.
   
